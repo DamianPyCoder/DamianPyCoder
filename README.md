@@ -1,3 +1,5 @@
+ABOUT ME:
+
 :earth_africa: I speak fluently Spanish, Catalan and English. Basic Italian and German. And now I am currently learning Arabic and French.
 
 📗 📘 📔 I studied history, economics and now computer science.
