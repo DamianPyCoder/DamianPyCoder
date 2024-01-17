@@ -2,7 +2,7 @@ ABOUT ME:
 
 :earth_africa: I speak fluently Spanish, Catalan and English. Basic Italian and German. And now I am currently learning Arabic and French.
 
-📗 📘 📔 I studied history, economics and now computer science.
+📗 📘 📔 I studied history, economics, computer science and now psychology.
 
 👔 📷 💻 I worked in many things... as teacher, travel photographer and now as DevOps.
 
