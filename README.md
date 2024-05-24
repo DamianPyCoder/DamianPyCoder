@@ -1,9 +1,7 @@
 ![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/honidacanvas.png)
 
-<img src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/honidacanvas.png" title="canvasHonida" alt="canvasHonida" width="55" height="55"/> 
-
 <p align="center">
-  <img width="400" height="100" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/honidacanvas.png" title="canvasHonida" alt="canvasHonida" width="55" height="55"/> -dark">
+  <img width="400" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/honidacanvas.png" title="canvasHonida" alt="canvasHonida" width="55" height="55"/> -dark">
 </p>
 
 
