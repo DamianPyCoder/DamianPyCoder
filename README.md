@@ -17,6 +17,15 @@
 
 
 # MY FAVORITE PROJECTS
+<p align="center">
+  <a href="URL_DEL_CANAL_DE_YOUTUBE_1">
+    <img width="400" height="125" src="URL_DE_LA_IMAGEN_1" title="canvasHonida" alt="canvasHonida">
+  </a>
+  <a href="URL_DEL_CANAL_DE_YOUTUBE_2">
+    <img width="400" height="125" src="URL_DE_LA_IMAGEN_2" title="damiandevopscanvas" alt="damiandevopscanvas">
+  </a>
+</p>
+
 
 # MY FAVORITE PROJECTS
 <p align="center">
