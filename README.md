@@ -67,10 +67,10 @@ Here are some ideas to get you started:
 | <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="JQuery"  alt="JQuery" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="55" height="55"/> |  |  |
 
 
-## Design
-| Photoshop | Figma |  |  |  |  |  |  |
+## Design and 3D
+| Photoshop | Figma | ThreeJS | Blender |  |  |  |  |
 |----------|----------|----------|-----|-----|-----|-----|---|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/>|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="ThreeJS" alt="ThreeJS" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="55" height="55"/>|
 
 ## Mobile Apps
 | And.Studio | Kotlin | Java | Ionic | Flutter | Dart | R.Native |
@@ -79,13 +79,15 @@ Here are some ideas to get you started:
 
 
 
+## Games
+| Unreal | Unity | Pygame | Turtle | Java | Godot |
+|--|--|--|--|--|--|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="unrealengine" alt="unrealengine" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/pygame/pygame-original.svg" title="pygame" alt="pygame" width="55" height="55"/>| | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="godot" alt="godot" width="55" height="55"/>|
+
+
 
 ## Others
-#### Skilled in
+
 | Git |  |  |  |  |  |  |  |
 |----------|----------|----------|-----|-----|-----|-----|---|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | 
-
-
-#### Familiar with
-#### Occasionally use
