@@ -24,3 +24,10 @@ Here are some ideas to get you started:
 -->
 
 
+# SKILLS:
+## Backend
+
+### Frontend
+
+
+#### Others
