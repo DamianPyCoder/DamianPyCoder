@@ -7,9 +7,9 @@ But in the past, I worked as an inspector and administrative staff.
 📗 📘 📔 CURRENTLY I am studying Data Science. 
 But in the past, I studied Programming, Psychology, History, and Economics.
 
-![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png "Spain") 
-![Germany](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/de.png "Germany") 
-![United Kingdom](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "United Kingdom") MY MOTHER LANGUAGES are Spanish and Catalan. 
+![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png "Spain")  
+![Germany](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/de.png "Germany")  
+![United Kingdom](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "United Kingdom")  MY MOTHER LANGUAGES are Spanish and Catalan. 
 But I speak English and Italian fluently. I studied German at the EOI and at the VHS in Berlin. Recently, I have also studied French, Russian, and Arabic at the EOI.
 
 CURRENTLY I am a volunteer at a hospital. 
