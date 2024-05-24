@@ -1,3 +1,8 @@
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+
 ## ABOUT ME:
 
 :earth_africa: I speak fluently Spanish, Catalan and English. Basic Italian and German. And now I am currently learning Arabic and French.
