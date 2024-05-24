@@ -1,12 +1,15 @@
 
 ## ABOUT ME:
 
+Here are the corrections:
 
-| Times| Working | Studing  | Volunteering |
-|---|---|--|--|
-| Currently |  |  |  |
-| In the past |  |  |  |
+CURRENTLY I am working as a software developer. But in the past, I worked as an inspector and administrative staff.
 
+CURRENTLY I am studying Data Science. But in the past, I studied Programming, Psychology, History, and Economics.
+
+MY MOTHER LANGUAGES are Spanish and Catalan. But I speak English and Italian fluently. I studied German at the EOI and at the VHS in Berlin. Recently, I have also studied French, Russian, and Arabic at the EOI.
+
+CURRENTLY I am a volunteer at a hospital. But in the past, I also volunteered at a school for children at risk of social exclusion for 5 years, and I used to cook at a homeless shelter.
 
 :earth_africa: I speak fluently Spanish, Catalan and English. Basic Italian and German. And now I am currently learning Arabic and French.
 
