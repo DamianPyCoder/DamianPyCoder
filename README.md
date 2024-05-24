@@ -28,10 +28,7 @@ Here are some ideas to get you started:
 #### Backend
 | Python3 | C# | Java | Node JS |
 |----------|----------|----------|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> 
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> 
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C#"  alt="C#" width="55" height="55"/> 
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node JS" alt="Node JS" width="55" height="55"/>|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C#"  alt="C#" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node JS" alt="Node JS" width="55" height="55"/>|
 
 
 
