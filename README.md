@@ -31,8 +31,6 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 ![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/bannerDamianV1.png)
 
-![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/bannerDamianV1.png)
-
 
 
 <p align="center">
