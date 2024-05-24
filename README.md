@@ -24,21 +24,6 @@ Here are some ideas to get you started:
 -->
 
 
-
-## Backend
-| Skilled in |
-| Python | Java | NodeJS | C# | ASP.NET |
-|----------|----------|----------|----|---|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node JS" alt="Node JS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C#"  alt="C#" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Net" alt="Net" width="55" height="55"/> |
-
-
-
-
-
-
-
-
-
 ## Backend
 #### Skilled in
 | Python | Java | NodeJS | C# | ASP.NET |
