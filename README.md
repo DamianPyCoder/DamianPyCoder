@@ -1,4 +1,4 @@
-
+<!--
 ## ABOUT ME:
 
 👔 📷 💻       
@@ -23,7 +23,8 @@ But in the past, I also volunteered at a school for children at risk of social e
 ✈️ :earth_africa: :earth_africa:     
 
 I live in Barcelona, although I'm open to traveling anywhere in the world!!
-
+-->
+![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/bannerDamianV1.png)
 
 
 
