@@ -24,15 +24,6 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center">
- <img width="1000" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/github-snake.svg" alt="snake"/>
-</p>
-
-<p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=damianpycoder&show_icons=true&theme=vision-friendly-dark">
-  <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damianpycoder&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
-</p>
-
 
 
 
@@ -104,3 +95,13 @@ Here are some ideas to get you started:
 | Git | Trello | Jira | Docker | Kubernetes | Jenkins |
 |----------|----|------|-----|-----|---|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="trello" alt="trello" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="kubernetes" alt="kubernetes" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins" alt="jenkins" width="55" height="55"/> | 
+
+
+<p align="center">
+ <img width="1000" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/github-snake.svg" alt="snake"/>
+</p>
+
+<p align="center">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=damianpycoder&show_icons=true&theme=vision-friendly-dark">
+  <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damianpycoder&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>
