@@ -1,11 +1,13 @@
 
 ## ABOUT ME:
 
-👔 📷 💻 
+👔 📷 💻       
+
 CURRENTLY I am working as a software developer and I have a YouTube channel where I teach programming classes.
 But in the past, I worked as an inspector and administrative staff.
 
-📗 📘 📔 
+📗 📘 📔      
+
 CURRENTLY I am studying Data Science. 
 But in the past, I studied Programming, Psychology, History, and Economics.
 
@@ -18,11 +20,10 @@ But I speak English and Italian fluently. I studied German at the EOI and at the
 CURRENTLY I am a volunteer at a hospital. 
 But in the past, I also volunteered at a school for children at risk of social exclusion for 5 years, and I used to cook at a homeless shelter.
 
-✈️ :earth_africa: :earth_africa: 
+✈️ :earth_africa: :earth_africa:     
+
 I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
-
-I worked in many things... as teacher, travel photographer and now as DevOps.
 
 
 
