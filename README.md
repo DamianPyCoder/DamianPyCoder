@@ -62,9 +62,9 @@ Here are some ideas to get you started:
 | <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular"  alt="Angular" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/> |
 
 #### Occasionally use
-| JQuery | Sass |  |  |
-|-----|-----|---|---|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="JQuery"  alt="JQuery" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="55" height="55"/> |  |  |
+| NextJS | JQuery | Sass |  |  |
+|-----|--|---|---|---|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/next/next-original.svg" title="next" alt="next" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="JQuery"  alt="JQuery" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="55" height="55"/> |  |  |
 
 
 ## Design and 3D
