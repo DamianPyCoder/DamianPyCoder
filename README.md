@@ -1,8 +1,3 @@
-<p align="center">
- <img width="1000" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/github-snake.svg" alt="snake"/>
-</p>
-
-
 ## ABOUT ME:
 
 :earth_africa: I speak fluently Spanish, Catalan and English. Basic Italian and German. And now I am currently learning Arabic and French.
@@ -27,6 +22,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="center">
+ <img width="1000" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/github-snake.svg" alt="snake"/>
+</p>
+
+
+
 
 
 ## Backend
