@@ -18,21 +18,20 @@
 
 # MY FAVORITE PROJECTS
 <p align="center">
-  <a href="URL_DEL_CANAL_DE_YOUTUBE_1">
+  <a href="https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/honidacanvas.png" title="canvasHonida" alt="canvasHonida">
   </a>
-  <a href="URL_DEL_CANAL_DE_YOUTUBE_2">
+  <a href="https://www.youtube.com/@DamianDevops">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/damiandevopscanvas.png" title="damiandevopscanvas" alt="damiandevopscanvas">
   </a>
 </p>
 
-
-# MY FAVORITE PROJECTS
+<!--
 <p align="center">
   <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/honidacanvas.png" title="canvasHonida" alt="canvasHonida" width="55" height="55"/> 
   <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/damiandevopscanvas.png" title="damiandevopscanvas" alt="damiandevopscanvas" width="55" height="55"/> 
 </p>
-
+-->
 
 # SKILLS
 ## 1. Backend
