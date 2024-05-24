@@ -33,16 +33,16 @@ Here are some ideas to get you started:
 
 
 #### Frontend
-| JS | CSS | HTML | React | Angular | JQuery | Sass |
-|----------|----------|----------|-----|-----|-----|-----|
+| JS | CSS | HTML | React | Angular | JQuery | Sass | Figma
+|----------|----------|----------|-----|-----|-----|-----|---|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> 
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Python"  alt="Python" width="55" height="55"/> 
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> 
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> 
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> 
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> 
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> 
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="55" height="55"/> 
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/html/html-original.svg" title="HTML"  alt="HTML" width="55" height="55"/> 
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/> 
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular"  alt="Angular" width="55" height="55"/> 
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="JQuery"  alt="JQuery" width="55" height="55"/> 
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="55" height="55"/> 
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma" title="Figma" alt="Figma" width="55" height="55"/>|
 
 
 
