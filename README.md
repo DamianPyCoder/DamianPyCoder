@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 | Django | Flask | Java | Node JS |
 |----------|----------|----------|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" title="Django"  alt="Django" width="55" height="55"/> | 
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django"  alt="Django" width="55" height="55"/> | 
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask"  alt="Flask" width="55" height="55"/> | 
 
 ## Frontend
