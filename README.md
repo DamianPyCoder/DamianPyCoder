@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 #### Occasionally use
 | NextJS | JQuery | Sass |  |  |
 |-----|--|---|---|---|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/next/next-original.svg" title="next" alt="next" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="JQuery"  alt="JQuery" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="55" height="55"/> |  |  |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="JQuery"  alt="JQuery" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="55" height="55"/> |  |  |
 
 
 ## Design and 3D
