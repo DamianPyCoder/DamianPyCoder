@@ -1,3 +1,13 @@
+![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/honidacanvas.png)
+
+<img src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/honidacanvas.png" title="canvasHonida" alt="canvasHonida" width="55" height="55"/> 
+
+<p align="center">
+  <img width="400" height="200" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/honidacanvas.png" title="canvasHonida" alt="canvasHonida" width="55" height="55"/> -dark">
+</p>
+
+
+
 ## ABOUT ME:
 
 :earth_africa: I speak fluently Spanish, Catalan and English. Basic Italian and German. And now I am currently learning Arabic and French.
