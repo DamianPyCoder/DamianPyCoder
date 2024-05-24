@@ -47,43 +47,43 @@
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle"  alt="Oracle" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite"  alt="SQLite" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="firebase"  alt="firebase" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="hadoop"  alt="hadoop" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="apachespark"  alt="apachespark" width="55" height="55"/> |  
 
 
-## Frontend
-#### Skilled in
+## 1.3 Frontend
+#### 1.3.1 Skilled in
 | JS | CSS | HTML | React |
 |----------|---|-----|-----|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML"  alt="HTML" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/> |  
 
-#### Familiar with
+#### 1.3.2 Familiar with
 | Angular | Bootstrap |
 |------------|-------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular"  alt="Angular" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/> |
 
-#### Occasionally use
+#### 1.3.3 Occasionally use
 | NextJS | JQuery | Sass | Less | ElectronJS |
 |-----|--|---|---|---|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="JQuery"  alt="JQuery" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" title="less" alt="less" width="55" height="55"/>  |   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="electron" alt="electron" width="55" height="55"/> |
 
 
-## Design and 3D
+## 1.4 Design and 3D
 | Photoshop | Figma | ThreeJS | Blender |
 |----------|----------|-------------|-----|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="ThreeJS" alt="ThreeJS" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="55" height="55"/>|
 
-## Mobile Apps
+## 1.5 Mobile Apps
 | And.Studio | Kotlin | Java | Ionic | Flutter | Dart | R.Native |
 |----------|-----|-----|-----|---|--|--|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" title="Ionic" alt="Ionic" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="55" height="55"/> |
 
 
 
-## Games
+## 1.6 Games
 | Unreal | Unity | Pygame | Turtle | Java | Godot |
 |--|--|--|--|--|--|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="unrealengine" alt="unrealengine" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="godot" alt="godot" width="55" height="55"/>|
 
 
 
-## DevOps 
+## 1.7 DevOps 
 
 | Git | Trello | Jira | Docker | Kubernetes | Jenkins |
 |----------|----|------|-----|-----|---|
