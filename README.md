@@ -1,6 +1,13 @@
 
 ## ABOUT ME:
 
+
+| Times| Working | Studing  | Volunteering |
+|---|---|--|--|
+| Currently |  |  |  |
+| In the past |  |  |  |
+
+
 :earth_africa: I speak fluently Spanish, Catalan and English. Basic Italian and German. And now I am currently learning Arabic and French.
 
 📗 📘 📔 I studied history, economics, computer science and now psychology.
