@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 -->
 
 
-## SKILLS:
-### Backend
+## Backend
 #### Skilled in
 | Python3 | C# | Java | Node JS |
 |----------|----------|----------|-----|
