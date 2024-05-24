@@ -57,8 +57,7 @@ Here are some ideas to get you started:
 ## Design
 | Photoshop | Figma |  |  |  |  |  |  |
 |----------|----------|----------|-----|-----|-----|-----|---|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Figma" alt="Figma" width="55" height="55"/>
-| <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/>|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/>|
 
 
 
