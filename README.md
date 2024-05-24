@@ -17,9 +17,11 @@
 
 
 # MY FAVORITE PROJECTS
+
+# MY FAVORITE PROJECTS
 <p align="center">
   <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/honidacanvas.png" title="canvasHonida" alt="canvasHonida" width="55" height="55"/> 
-  [! <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/damiandevopscanvas.png" title="damiandevopscanvas" alt="damiandevopscanvas" width="55" height="55"/> ](https://www.youtube.com)
+  <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/damiandevopscanvas.png" title="damiandevopscanvas" alt="damiandevopscanvas" width="55" height="55"/> 
 </p>
 
 
