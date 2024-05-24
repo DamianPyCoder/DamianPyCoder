@@ -24,6 +24,12 @@
   <a href="https://www.youtube.com/@DamianDevops">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/damiandevopscanvas.png" title="damiandevopscanvas" alt="damiandevopscanvas">
   </a>
+  <a href="https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/codingschool.png" title="codingschool" alt="codingschool">
+  </a>
+  <a href="https://www.youtube.com/@DamianDevops">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/deliveryflutter.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
 </p>
 
 <!--
