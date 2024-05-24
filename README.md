@@ -1,14 +1,6 @@
 ![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/honidacanvas.png)
 
 <p align="center">
-  <img width="420" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/honidacanvas.png" title="canvasHonida" alt="canvasHonida" width="55" height="55"/> 
-</p>
-
-<p align="center">
-  <img width="450" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/honidacanvas.png" title="canvasHonida" alt="canvasHonida" width="55" height="55"/> 
-</p>
-
-<p align="center">
   <img width="480" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/honidacanvas.png" title="canvasHonida" alt="canvasHonida" width="55" height="55"/> 
 </p>
 
