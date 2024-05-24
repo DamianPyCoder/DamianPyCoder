@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 
 
 #### Occasionally use
-| Django | Flask | Spring | Docker | GraphQL | Express |
-|--------|-------|-----|--|---|--|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django"  alt="Django" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask"  alt="Flask" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring"  alt="Spring" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL"  alt="GraphQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express"  alt="express" width="55" height="55"/> | 
+| Django | Flask | Spring | Docker | GraphQL | Express | CoffeeE |
+|--------|-------|-----|--|---|--|--|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django"  alt="Django" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask"  alt="Flask" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring"  alt="Spring" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL"  alt="GraphQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express"  alt="express" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/coffeescript/coffeescript-original.svg" title="coffeescript"  alt="coffeescript" width="55" height="55"/> | 
 
 
 ## Databases
@@ -86,8 +86,11 @@ Here are some ideas to get you started:
 
 
 
-## Others
+## Others 
 
-| Git |  |  |  |  |  |  |  |
+| Git | Electron |  |  |  |  |  |  |
 |----------|----------|----------|-----|-----|-----|-----|---|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="electron" alt="electron" width="55" height="55"/> | 
+
+
