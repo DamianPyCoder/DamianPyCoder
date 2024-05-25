@@ -64,6 +64,9 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
   <a href="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/corporative.png">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/corporative.png">
   </a> 
+  <a href="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/bestrong.png">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/bestrong.png">
+  </a>  
 </p>
 
 
