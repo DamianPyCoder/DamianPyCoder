@@ -104,6 +104,13 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 |------------|-------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular"  alt="Angular" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/> |
 
+
+| Angular | Bootstrap |
+|------------|-------|
+| <td style="background-color: rgb(6, 237, 198);"><img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="55" height="55"/></td> | <td style="background-color: rgb(6, 237, 198);"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/></td> |
+
+
+
 #### 3.3 Occasionally use
 | NextJS | JQuery | Sass | Less | ElectronJS |
 |-----|--|---|---|---|
