@@ -55,13 +55,13 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
   <a href="https://www.youtube.com/@DamianDevops">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/deliveryflutter.png" title="deliveryflutter" alt="deliveryflutter">
   </a>
-  <a href="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/damialicious.png">
+  <a href="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/damialicious.png">
   </a> 
-  <a href="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/corporative.png">
+  <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/corporative.png">
   </a> 
-  <a href="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/bestrong.png">
+  <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/bestrong.png">
   </a>  
   <a href="https://github.com/DamianPyCoder/Program___Angular__QuizzProgram__likeKahoot">
