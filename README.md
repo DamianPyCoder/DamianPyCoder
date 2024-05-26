@@ -55,9 +55,6 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
   <a href="https://www.youtube.com/@DamianDevops">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/deliveryflutter.png" title="deliveryflutter" alt="deliveryflutter">
   </a>
-  <a href="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/seedknows.png">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/seedknows.png">
-  </a>
   <a href="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/damialicious.png">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/damialicious.png">
   </a> 
@@ -67,6 +64,9 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
   <a href="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/bestrong.png">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/bestrong.png">
   </a>  
+  <a href="https://github.com/DamianPyCoder/Program___Angular__QuizzProgram__likeKahoot">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/seedknows.png">
+  </a>
 </p>
 
 
