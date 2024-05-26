@@ -41,6 +41,16 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 </p>
 
 
+
+
+
+
+
+
+
+
+
+
 # MY FAVORITE PROJECTS
 <p align="center">
   <a href="https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon">
