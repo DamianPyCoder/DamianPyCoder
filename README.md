@@ -99,7 +99,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/extermin_circleB.png">
   </a>
    <a href="https://github.com/DamianPyCoder/Game___Unity___SpaceExterminator">
-    <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/extermin_circle.png">
+    <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/2048_circle.png">
   </a>
 
 
