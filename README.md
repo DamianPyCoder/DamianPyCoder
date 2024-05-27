@@ -225,9 +225,9 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 <details>
 <summary><b>5.2 Familiar with </b></summary>  
 
-| ThreeJS  |  Canva | Turtle | Pygame |  Godot |
-|--|--|--|---|-----|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="ThreeJS" alt="ThreeJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="godot" alt="godot" width="55" height="55"/>|
+| ThreeJS  | Canva | Gimp | Turtle | Pygame |  Godot |
+|--|--|--|---|---|--|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="ThreeJS" alt="ThreeJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="ThreeJS" alt="ThreeJS" width="55" height="55"/>      | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="godot" alt="godot" width="55" height="55"/>|
  
 </details>
 
