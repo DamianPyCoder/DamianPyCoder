@@ -101,6 +101,36 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
    <a href="https://github.com/DamianPyCoder/Game___Unity___SpaceExterminator">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/extermin_circle.png">
   </a>
+
+
+
+
+  <a href="https://github.com/DamianPyCoder/Game___Unity___SpaceExterminator">
+    <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/stitch_circle.png">
+  </a>
+  <a href="https://github.com/DamianPyCoder/Game___Unity___SpaceExterminator">
+    <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/starwars_circle.png">
+  </a>
+  <a href="https://github.com/DamianPyCoder/Game___Unity___SpaceExterminator">
+    <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/snake_circle.png">
+  </a>
+  <a href="https://github.com/DamianPyCoder/Game___Unity___SpaceExterminator">
+    <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/pokemon_circle.png">
+  </a>
+  <a href="https://github.com/DamianPyCoder/Game___Unity___SpaceExterminator">
+    <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/galaxy_circle.png">
+  </a>
+  <a href="https://github.com/DamianPyCoder/Game___Unity___SpaceExterminator">
+    <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/bomberman_circle.png">
+  </a>
+  <a href="https://github.com/DamianPyCoder/Game___Unity___SpaceExterminator">
+    <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/3raya_circle.png">
+  </a>
+  <a href="https://github.com/DamianPyCoder/Game___Unity___SpaceExterminator">
+    <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/tenis_circle.png">
+  </a>
+
+
  
 </p>
 
