@@ -95,6 +95,30 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
   <a href="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/redRobot_circle.png">
     <img width="180" height="180" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/redRobot_circle.png">
   </a>
+   <a href="">
+    <img width="180" height="180" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/redRobot_circle.png">
+  </a>
+  <a href="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/redRobot_circle.png">
+    <img width="180" height="180" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/redRobot_circle.png">
+  </a>
+   <a href="">
+    <img width="180" height="180" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/redRobot_circle.png">
+  </a>
+  <a href="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/redRobot_circle.png">
+    <img width="180" height="180" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/redRobot_circle.png">
+  </a>
+   <a href="">
+    <img width="180" height="180" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/redRobot_circle.png">
+  </a>
+  <a href="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/redRobot_circle.png">
+    <img width="180" height="180" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/redRobot_circle.png">
+  </a>
+   <a href="">
+    <img width="180" height="180" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/redRobot_circle.png">
+  </a>
+  <a href="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/redRobot_circle.png">
+    <img width="180" height="180" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/redRobot_circle.png">
+  </a>
 </p>
 
 
