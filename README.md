@@ -72,7 +72,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 <p align="center">
   <a href="https://github.com/DamianPyCoder/Program___Angular__QuizzProgram__likeKahoot">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/seedknows.png">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/quizzangular.png">
   </a>
   <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/bestrong.png">
