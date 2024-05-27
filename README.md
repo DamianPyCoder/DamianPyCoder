@@ -115,7 +115,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 <details>
-<summary><b>1.2 Familiar in data science with </b></summary>  
+<summary><b>1.2 Familiar in Data Science with </b></summary>  
    
 | Numpy | Pandas | Matplotlib | TensorFlow | Seaborn | Anaconda | Pytorch | Plotly | Jupyter |
 |-----|-----|-----|---|--|-----|--|--|--|
@@ -125,7 +125,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 <details>
-<summary><b>2.2 Familiar in database and Bigdata with </b></summary>  
+<summary><b>1.3 Familiar in Database and Big Data with </b></summary>  
  
 | PostgreSQL | Mongo | Firebase | Hadoop | Spark |
 |-----|--|--|--|--|
@@ -135,7 +135,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 <details>
-<summary><b>1.3 Occasionally use </b></summary>  
+<summary><b>1.4 Occasionally use </b></summary>  
 
 | Django | Flask | Spring | Docker | GraphQL | Express | CoffeeE | Typescript | Azure | Bash | Postman | Swagger | RabbitMQ |
 |--|---|---|--|-----|--|-----|--|---|--|--|--|--|
