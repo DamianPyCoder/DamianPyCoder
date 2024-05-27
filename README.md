@@ -193,9 +193,19 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 ## 4. DevOps 
 
-| Git | Trello | Jira | Docker | Kubernetes | Jenkins |
-|----------|----|------|-----|-----|---|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="trello" alt="trello" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="kubernetes" alt="kubernetes" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins" alt="jenkins" width="55" height="55"/> | 
+| Git | Github |
+|----------|----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Git" alt="Git" width="55" height="55"/> | 
+
+
+<details>
+<summary><b>4.2 Familiar with </b></summary>  
+ 
+| Trello | Jira | Docker | Kubernetes | Jenkins |
+|---|---|-----|-----|---|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="trello" alt="trello" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="kubernetes" alt="kubernetes" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins" alt="jenkins" width="55" height="55"/> | 
+
+</details>
 
 
 ## 5. Design, 3D and Games
