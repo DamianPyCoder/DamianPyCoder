@@ -125,7 +125,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 <details>
-<summary><b>2.2 Familiar in database with </b></summary>  
+<summary><b>2.2 Familiar in database and Bigdata with </b></summary>  
  
 | PostgreSQL | Mongo | Firebase | Hadoop | Spark |
 |-----|--|--|--|--|
