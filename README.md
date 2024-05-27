@@ -199,7 +199,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 | <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" title="Ionic" alt="Ionic" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="55" height="55"/> |
 
 
-## 4. DevOps 
+## 4. DevOps and Others
 
 | Git | Github |
 |----------|----|
@@ -207,13 +207,25 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 <details>
-<summary><b>4.2 Familiar with </b></summary>  
+<summary><b>4.2 Familiar with DevOps </b></summary>  
  
 | Trello | Jira | Docker | Kubernetes | Jenkins |
 |---|---|-----|-----|---|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="trello" alt="trello" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="kubernetes" alt="kubernetes" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins" alt="jenkins" width="55" height="55"/> | 
 
 </details>
+
+<details>
+<summary><b>4.3 Familiar with Others </b></summary>  
+ 
+| Json | XML | Docker | 
+|-----|-----|---|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="trello" alt="trello" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="jira" alt="jira" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="docker" alt="docker" width="55" height="55"/> |
+
+</details>
+
+
+
 
 
 ## 5. Design, 3D and Games
