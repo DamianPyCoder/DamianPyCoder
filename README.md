@@ -63,7 +63,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/codingschool.png" title="codingschool" alt="codingschool">
   </a>
   <a href="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/damialicious.png">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/digitalMenu.png">
   </a> 
 </p>
 
