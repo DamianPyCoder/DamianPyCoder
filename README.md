@@ -199,7 +199,29 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 | <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" title="Ionic" alt="Ionic" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="55" height="55"/> |
 
 
-## 4. DevOps and Others
+
+
+## 4. Design, 3D and Games
+| Photoshop | Figma | Blender | Unreal | Unity | 
+|----------|----------|-------|-|--|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="unrealengine" alt="unrealengine" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="55" height="55"/> |
+
+
+<details>
+<summary><b>4.2 Familiar with </b></summary>  
+
+| ThreeJS  | Canva | Gimp | Turtle | Pygame |  Godot |
+|--|--|--|---|---|--|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="ThreeJS" alt="ThreeJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="ThreeJS" alt="ThreeJS" width="55" height="55"/>      | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="godot" alt="godot" width="55" height="55"/>|
+ 
+</details>
+
+
+
+
+
+
+## 5. DevOps and Others
 
 | Git | Github |
 |----------|----|
@@ -207,7 +229,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 <details>
-<summary><b>4.2 Familiar with DevOps </b></summary>  
+<summary><b>5.2 Familiar with DevOps </b></summary>  
  
 | Trello | Jira | Docker | Kubernetes | Jenkins |
 |---|---|-----|-----|---|
@@ -216,7 +238,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 </details>
 
 <details>
-<summary><b>4.3 Familiar with Others </b></summary>  
+<summary><b>5.3 Familiar with Others </b></summary>  
  
 | Json | XML | Docker | 
 |-----|-----|---|
@@ -228,19 +250,5 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 
-## 5. Design, 3D and Games
-| Photoshop | Figma | Blender | Unreal | Unity | 
-|----------|----------|-------|-|--|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="unrealengine" alt="unrealengine" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="55" height="55"/> |
-
-
-<details>
-<summary><b>5.2 Familiar with </b></summary>  
-
-| ThreeJS  | Canva | Gimp | Turtle | Pygame |  Godot |
-|--|--|--|---|---|--|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="ThreeJS" alt="ThreeJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="ThreeJS" alt="ThreeJS" width="55" height="55"/>      | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="godot" alt="godot" width="55" height="55"/>|
- 
-</details>
 
 
