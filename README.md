@@ -86,7 +86,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 </p>
 
 
-## Games I have made in my free time  
+## Games I made in my free time  
 
 
 
