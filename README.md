@@ -107,16 +107,26 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node JS" alt="Node JS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C#"  alt="C#" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Net" alt="Net" width="55" height="55"/> |
 
 
-#### 1.2 Familiar in data science with
+<details>
+<summary><b>1.2 Familiar in data science with </b></summary>  
+   
 | Numpy | Pandas | Matplotlib | TensorFlow | Seaborn | Anaconda | Pytorch | Plotly | Jupyter |
 |-----|-----|-----|---|--|-----|--|--|--|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="55" height="55"/> |  | <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="anaconda" alt="anaconda" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="plotly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="jupyter" alt="jupyter" width="55" height="55"/> |
+  
+</details>
 
+<details>
+<summary><b>1.3 Occasionally use </b></summary>  
 
-#### 1.3 Occasionally use
 | Django | Flask | Spring | Docker | GraphQL | Express | CoffeeE | Typescript | Azure | Bash | Postman | Swagger | RabbitMQ |
 |--|---|---|--|-----|--|-----|--|---|--|--|--|--|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django"  alt="Django" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask"  alt="Flask" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring"  alt="Spring" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL"  alt="GraphQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express"  alt="express" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/coffeescript/coffeescript-original.svg" title="coffeescript"  alt="coffeescript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript"  alt="typescript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure"  alt="azure" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash"  alt="bash" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman"  alt="postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="swagger"  alt="swagger" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="rabbitmq"  alt="rabbitmq" width="55" height="55"/> |
+
+</details>
+
+
+
 
 
 
