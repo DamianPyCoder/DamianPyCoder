@@ -107,7 +107,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 # SKILLS
-## 1. Backend, Databases and Big Data
+## 1. Backend, Database and Big Data
 <!-- #### 1.1 Skilled in -->
 | Python | Java | NodeJS | C# | ASP.NET | MySQL | Oracle | SQLite | 
 |----------|----------|----------|----|---|-----|-----|--|
@@ -198,7 +198,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="trello" alt="trello" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="kubernetes" alt="kubernetes" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins" alt="jenkins" width="55" height="55"/> | 
 
 
-## 5. Design, 3D and games
+## 5. Design, 3D and Games
 | Photoshop | Figma | Blender | Unreal | Unity | 
 |----------|----------|-------|-|--|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="unrealengine" alt="unrealengine" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="55" height="55"/> |
@@ -209,7 +209,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 | ThreeJS  |  Canva | Turtle | Pygame |  Godot |
 |--|--|--|---|-----|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="ThreeJS" alt="ThreeJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="godot" alt="godot" width="55" height="55"/>|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="ThreeJS" alt="ThreeJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="godot" alt="godot" width="55" height="55"/>|
  
 </details>
 
