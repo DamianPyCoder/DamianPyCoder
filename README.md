@@ -106,19 +106,19 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
    <a href="https://github.com/DamianPyCoder/Game___Unity___SpaceExterminator">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/extermin_circleB.png">
   </a>
-  <a href="">
+  <a href="https://github.com/DamianPyCoder/Game___Unity___Tetris3D">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/tetris3D_circle.png">
   </a>
-    <a href="">
+    <a href="https://github.com/DamianPyCoder/Game___Unity___Adventure2D">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/phantom_circle.png">
   </a>
-    <a href="">
+    <a href="https://github.com/DamianPyCoder/Game___Unity___KillTheTrasgos">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/orcos_circle.png">
   </a>
-   <a href="https://github.com/DamianPyCoder/Game___Unity___SpaceExterminator">
+   <a href="https://github.com/DamianPyCoder/Game___Ionic___2048">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/2048_circle.png">
   </a>
-   <a href="https://github.com/DamianPyCoder/Game___Unity___SpaceExterminator">
+   <a href="https://github.com/DamianPyCoder/Game___ThreeJS___Blocks">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/cubos_circle.png">
   </a>
   <a href="https://github.com/DamianPyCoder/Game___Unity___SpaceExterminator">
@@ -147,10 +147,10 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
   </a>
 
 
-  <a href="">
+  <a href="https://github.com/DamianPyCoder/Game___Java___PixelFish">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/pixelfish_circle.png">
   </a>
-  <a href="">
+  <a href="https://github.com/DamianPyCoder/Game___Java___CuteKrabby">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/krabby_circle.png">
   </a>
 
