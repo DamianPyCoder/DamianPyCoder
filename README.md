@@ -157,7 +157,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 
-## 3. Frontend
+## 2. Frontend
 <!-- #### 3.1 Skilled in -->
 | JS | CSS | HTML | React |
 |----------|---|-----|-----|
@@ -165,7 +165,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 <details>
-<summary><b>3.2 Familiar with </b></summary>  
+<summary><b>2.2 Familiar with </b></summary>  
 
 | Angular | Bootstrap |
 |------------|-------|
@@ -175,7 +175,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 <details>
-<summary><b>3.3 Occasionally use </b></summary>  
+<summary><b>2.3 Occasionally use </b></summary>  
  
 | NextJS | JQuery | Sass | Less | ElectronJS |
 |-----|--|---|---|---|
@@ -185,7 +185,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 
-## 4. Mobile Apps
+## 3. Mobile Apps
 | Android | Kotlin | Java | Ionic | Flutter | Dart | R.Native |
 |----------|-----|-----|-----|---|--|--|
 | <img src="https://github.com/DamianPyCoder/RandomAssets__icons__V1/blob/main/android/android-original.svg" title="AndroidStudio" alt="AndroidStudio" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" title="Ionic" alt="Ionic" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="55" height="55"/> |
