@@ -68,7 +68,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 </p>
 
 
-# Projects under construction :octocat:
+## Projects under construction :octocat:
 
 <p align="center">
   <a href="https://github.com/DamianPyCoder/Program___Angular__QuizzProgram__likeKahoot">
