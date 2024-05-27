@@ -83,7 +83,15 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
   <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/delivery_flutter.png" title="deliveryflutter" alt="deliveryflutter">
   </a>
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/crmbanner.png">
+  </a> 
+  <a href="">
+    <img width="400" height="125" src="" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+ 
 </p>
+
 
 
 ## Games I made in my free time  :video_game:
