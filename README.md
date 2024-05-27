@@ -89,7 +89,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 ## Games I made in my free time  :video_game:
 
 <p align="center">
-  <a href="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/redRobot_circle.png">
+  <a href="">
     <img width="180" height="180" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/redRobot_circle.png">
   </a>
   <a href="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/redRobot_circle.png">
