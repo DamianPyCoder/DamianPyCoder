@@ -205,11 +205,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 ## :black_square_button:  3D 
 
-<p align="center">
-   <a href="https://github.com/DamianPyCoder/Game___UnrealEngine___SuperRaces">
-    <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/cocheUnreal_circle.png">
-  </a>
-</p>
+
 
 
 <details>
