@@ -71,15 +71,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
   <a href="https://github.com/DamianPyCoder/App___Kotlin__TinderClon__with_MVP">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/tinderclon.png">
   </a>
-</p>
 
-
-
-
-<details>
-<summary><b> Click to view the projects in React and Angular </b></summary>  
-
-<p align="center">
   <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/app_sport.png">
   </a>  
@@ -96,7 +88,13 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/slackclon.png" title="deliveryflutter" alt="deliveryflutter">
   </a>
 </p>
-</details>
+
+
+
+
+<details>
+<summary><b> REACT </b></summary>  
+
 
 
 
