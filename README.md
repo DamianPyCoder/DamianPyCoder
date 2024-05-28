@@ -51,7 +51,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 
-# MY FAVORITE PROJECTS
+# MY FAVORITE PROJECTS :octocat:
 <p align="center">
   <a href="https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/baner_music.png" title="canvasHonida" alt="canvasHonida">
@@ -75,7 +75,8 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 
-## Projects under construction :octocat:
+<details>
+<summary><b> Click to view the projects </b></summary>  
 
 <p align="center">
   <a href="">
@@ -93,13 +94,17 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
   <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/slackclon.png" title="deliveryflutter" alt="deliveryflutter">
   </a>
- 
 </p>
+
+</details>
 
 
 
 ## Games I made in my free time  :video_game:
 
+
+<details>
+<summary><b> Click to view more games </b></summary>    
 <p align="center">
    <a href="https://github.com/DamianPyCoder/Game___UnrealEngine___SuperRaces">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/cocheUnreal_circle.png">
@@ -160,6 +165,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
   </a>
 </p>
 
+</details>
 
 
 
