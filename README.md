@@ -53,40 +53,12 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 # MY FAVORITE PROJECTS :octocat:
 <p align="center">
-  <a href="https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/baner_music.png" title="canvasHonida" alt="canvasHonida">
-  </a>
-  <a href="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/codingschool.png" title="codingschool" alt="codingschool">
-  </a>
-  <a href="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/digitalMenu.png">
-  </a> 
   <a href="https://www.youtube.com/@DamianDevops">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/damiandevops_banner.png" title="damiandevopscanvas" alt="damiandevopscanvas">
-  </a>
-  <a href="https://github.com/DamianPyCoder/Program___Angular__QuizzProgram__likeKahoot">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/quizzAngular.png">
-  </a>
-  <a href="https://github.com/DamianPyCoder/App___Kotlin__TinderClon__with_MVP">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/tinderclon.png">
-  </a>
-
-  <a href="">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/app_sport.png">
-  </a>  
-  <a href="">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/redsocialcorporativa.png">
-  </a> 
-  <a href="">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/delivery_flutter.png" title="deliveryflutter" alt="deliveryflutter">
   </a>
   <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/crmbanner.png">
   </a> 
-  <a href="">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/slackclon.png" title="deliveryflutter" alt="deliveryflutter">
-  </a>
 </p>
 
 
@@ -101,10 +73,29 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 <details>
 <summary><b> REACT & ANGULAR </b></summary>  
+  <a href="https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/baner_music.png" title="canvasHonida" alt="canvasHonida">
+  </a>
+  <a href="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/codingschool.png" title="codingschool" alt="codingschool">
+  </a>
+  <a href="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/digitalMenu.png">
+  </a> 
+  <a href="https://github.com/DamianPyCoder/Program___Angular__QuizzProgram__likeKahoot">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/quizzAngular.png">
+  </a>
+
 </details>
 
 <details>
 <summary><b> ASPNet </b></summary>  
+
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/slackclon.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+
+
 </details>
 
 
@@ -117,6 +108,9 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 <details>
 <summary><b> FLUTTER </b></summary>  
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/delivery_flutter.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
 </details>
 
 <details>
@@ -125,6 +119,16 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 <details>
 <summary><b> JAVA and KOTLIN </b></summary>  
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/app_sport.png">
+  </a>  
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/redsocialcorporativa.png">
+  </a> 
+  <a href="https://github.com/DamianPyCoder/App___Kotlin__TinderClon__with_MVP">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/tinderclon.png">
+  </a>
+
 </details>
 
 
