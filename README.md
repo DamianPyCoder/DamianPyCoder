@@ -249,19 +249,10 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 |--|--|--|--|--|-----|-----|
 | <img src="https://github.com/DamianPyCoder/RandomAssets__icons__V1/blob/main/android/android-original.svg" title="AndroidStudio" alt="AndroidStudio" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" title="Ionic" alt="Ionic" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="55" height="55"/> |
 
-## 4. Design, 3D and Games
-| Photoshop | Figma | Blender | Unreal | Unity | 
-|----------|----------|-------|-|--|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="unrealengine" alt="unrealengine" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="55" height="55"/> |
-
-## 5. DevOps and Others
-
-| Git | Github |
-|----------|----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Git" alt="Git" width="55" height="55"/> | 
-
-
-
+## 4. Design, 3D, Games and Version Control
+| Photoshop | Figma | Blender | Unreal | Unity | Git | Github |
+|-----|-----|----|------|-------|-|--|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="unrealengine" alt="unrealengine" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Git" alt="Git" width="55" height="55"/> | 
 
 
 
@@ -274,7 +265,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 # OTHERS SKILLS
 
 <details>
-<summary><b>1.2 Familiar in Data Science with </b></summary>     
+<summary><b>Familiar in Data Science with </b></summary>     
  
 | Numpy | Pandas | Matplotlib | TensorFlow | Seaborn | Anaconda | Pytorch | Plotly | Jupyter |
 |-----|-----|-----|---|--|-----|--|--|--|
@@ -282,7 +273,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 </details>
 
 <details>
-<summary><b>1.3 Familiar in Database and Big Data with </b></summary>    
+<summary><b>Familiar in Database and Big Data with </b></summary>    
  
 | PostgreSQL | Mongo | Firebase | Hadoop | Spark |  
 |-----|--|--|--|--|
@@ -290,7 +281,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 </details>
 
 <details>
-<summary><b>1.4 Occasionally use </b></summary>  
+<summary><b>In backend occasionally use </b></summary>  
  
 | Django | Flask | Spring | Docker | GraphQL | Express | CoffeeE | Typescript | Azure | Bash | Postman | Swagger | RabbitMQ |
 |--|---|---|--|-----|--|-----|--|---|--|--|--|--|
@@ -298,45 +289,30 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 </details>
 
 <details>
-<summary><b>2.2 Familiar with </b></summary>  
+<summary><b>In frontend familiar with </b></summary>  
  
-| Angular | Bootstrap |
-|------------|-------|
+| Angular | Bootstrap | NextJS | JQuery | Sass | Less | ElectronJS |
+|------------|-------|---|--|---|---|---|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular"  alt="Angular" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/> |
+</details> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="JQuery"  alt="JQuery" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" title="less" alt="less" width="55" height="55"/>  |   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="electron" alt="electron" width="55" height="55"/> |
 </details>
 
 <details>
-<summary><b>2.3 Occasionally use </b></summary>  
- 
-| NextJS | JQuery | Sass | Less | ElectronJS |
-|-----|--|---|---|---|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="JQuery"  alt="JQuery" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" title="less" alt="less" width="55" height="55"/>  |   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="electron" alt="electron" width="55" height="55"/> |
-</details>
-
-<details>
-<summary><b>4.2 Familiar with </b></summary>  
+<summary><b>In DevOps, design, 3D, games and others familiar with </b></summary>  
 
 | ThreeJS  | Canva | Gimp | Turtle | Pygame |  Godot |
 |--|--|--|---|---|--|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="ThreeJS" alt="ThreeJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="ThreeJS" alt="ThreeJS" width="55" height="55"/>      | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="godot" alt="godot" width="55" height="55"/>| 
-</details>
-
-<details>
-<summary><b>5.2 Familiar with DevOps </b></summary>  
  
 | Trello | Jira | Docker | Kubernetes | Jenkins |
 |---|---|-----|-----|---|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="trello" alt="trello" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="kubernetes" alt="kubernetes" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins" alt="jenkins" width="55" height="55"/> | 
 </details>
-
-<details>
-<summary><b>5.3 Familiar with Others </b></summary>  
  
 | Json | XML | Docker | 
 |-----|-----|---|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="trello" alt="trello" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="jira" alt="jira" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="docker" alt="docker" width="55" height="55"/> |
 </details>
-
 
 
 
