@@ -142,7 +142,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 <details>
-<summary><b> Unity, Pygame, Godot and more. </b></summary>    
+<summary><b> UNITY, GODOT, PYGAME and more. </b></summary>    
 <p align="center">
   <a href="https://github.com/DamianPyCoder/Game___Unity___RPGNinja">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/rpgNinjas_circle.png">
@@ -215,21 +215,11 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 
-
-
-
 <p align="center">
  <!-- <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=damianpycoder&show_icons=true&theme=vision-friendly-dark"> -->
   <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damianpycoder&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
 
-
-<!--
-<p align="center">
-  <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/honidacanvas.png" title="canvasHonida" alt="canvasHonida" width="55" height="55"/> 
-  <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/damiandevopscanvas.png" title="damiandevopscanvas" alt="damiandevopscanvas" width="55" height="55"/> 
-</p>
--->
 
 
 
