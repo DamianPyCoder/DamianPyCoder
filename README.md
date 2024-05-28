@@ -100,11 +100,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 ## :computer: Web applications and desktop applications
 
 <details>
-<summary><b> REACT </b></summary>  
-</details>
-
-<details>
-<summary><b> ANGULAR </b></summary>  
+<summary><b> REACT and ANGULAR </b></summary>  
 </details>
 
 <details>
