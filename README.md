@@ -75,6 +75,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 
+
 <details>
 <summary><b> Click to view the projects in React and Angular </b></summary>  
 
@@ -97,6 +98,9 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 </p>
 </details>
 
+
+
+## :computer: Web applications and desktop applications
 
 
 <details>
