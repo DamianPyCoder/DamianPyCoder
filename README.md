@@ -293,8 +293,8 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
  
 | Angular | Bootstrap | NextJS | JQuery | Sass | Less | ElectronJS |
 |------------|-------|---|--|---|---|---|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular"  alt="Angular" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/> |
-</details> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="JQuery"  alt="JQuery" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" title="less" alt="less" width="55" height="55"/>  |   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="electron" alt="electron" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular"  alt="Angular" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/> | </details> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="JQuery"  alt="JQuery" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" title="less" alt="less" width="55" height="55"/>  |   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="electron" alt="electron" width="55" height="55"/> |
+
 </details>
 
 <details>
@@ -307,14 +307,13 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 | Trello | Jira | Docker | Kubernetes | Jenkins |
 |---|---|-----|-----|---|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="trello" alt="trello" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="kubernetes" alt="kubernetes" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins" alt="jenkins" width="55" height="55"/> | 
-</details>
  
 | Json | XML | Docker | 
 |-----|-----|---|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="trello" alt="trello" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="jira" alt="jira" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="docker" alt="docker" width="55" height="55"/> |
 </details>
 
-
+</details>
 
 
 
