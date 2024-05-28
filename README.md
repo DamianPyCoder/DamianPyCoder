@@ -148,10 +148,10 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
   <a href="https://github.com/DamianPyCoder/Game___PythonTurtle___x2">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/tenis_circle.png">
   </a>
-  <a href="https://github.com/DamianPyCoder/Java__Games__x2">
+  <a href="https://github.com/DamianPyCoder/Game___Java___PixelFish">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/pixelfish_circle.png">
   </a>
-  <a href="https://github.com/DamianPyCoder/Java__Games__x2">
+  <a href="https://github.com/DamianPyCoder/Game___Java___CuteKrabby">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/krabby_circle.png">
   </a>
 </p>
