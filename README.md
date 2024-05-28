@@ -294,20 +294,24 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 </details>
 
 <details>
-<summary><b>DevOps, design, 3D, games and others with </b></summary>  
+<summary><b>DevOps, design, games and others with </b></summary>  
 
-| ThreeJS  | Canva | Gimp | Turtle | Pygame |  Godot |
-|--|--|--|---|---|--|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="ThreeJS" alt="ThreeJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="ThreeJS" alt="ThreeJS" width="55" height="55"/>      | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="godot" alt="godot" width="55" height="55"/>| 
- 
 | Trello | Jira | Docker | Kubernetes | Jenkins |
 |---|---|-----|-----|---|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="trello" alt="trello" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="kubernetes" alt="kubernetes" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins" alt="jenkins" width="55" height="55"/> | 
+
+| ThreeJS  | Canva | Gimp | Turtle |
+|--|--|--|---|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="ThreeJS" alt="ThreeJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="ThreeJS" alt="ThreeJS" width="55" height="55"/>      | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
  
 | Json | XML | Docker | 
 |-----|-----|---|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="trello" alt="trello" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="jira" alt="jira" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="docker" alt="docker" width="55" height="55"/> |
-</details>
+
+| Pygame |  Godot |
+|--|--|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="godot" alt="godot" width="55" height="55"/>| 
+
 
 </details>
 
