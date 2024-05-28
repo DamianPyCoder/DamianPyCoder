@@ -124,40 +124,36 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
    <a href="https://github.com/DamianPyCoder/Game___ThreeJS___Blocks">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/cubos_circle.png">
   </a>
-  <a href="https://github.com/DamianPyCoder/Game___Unity___SpaceExterminator">
+  <a href="https://github.com/DamianPyCoder/Game___Godot___x4">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/pokemon_circle.png">
   </a>
-  <a href="https://github.com/DamianPyCoder/Game___Unity___SpaceExterminator">
+  <a href="https://github.com/DamianPyCoder/Game___Godot___x4">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/bomberman_circle.png">
   </a>
-  <a href="https://github.com/DamianPyCoder/Game___Unity___SpaceExterminator">
+  <a href="https://github.com/DamianPyCoder/Game___Godot___x4">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/stitch_circle.png">
   </a>
-  <a href="https://github.com/DamianPyCoder/Game___Unity___SpaceExterminator">
+  <a href="https://github.com/DamianPyCoder/Game___Godot___x4">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/starwars_circle.png">
   </a>
-  <a href="https://github.com/DamianPyCoder/Game___Unity___SpaceExterminator">
+  <a href="https://github.com/DamianPyCoder/Game___PythonTurtle___x2">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/snake_circle.png">
   </a>
-  <a href="https://github.com/DamianPyCoder/Game___Unity___SpaceExterminator">
+  <a href="https://github.com/DamianPyCoder/Game___Pygame___x2">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/galaxy_circle.png">
   </a>
-  <a href="https://github.com/DamianPyCoder/Game___Unity___SpaceExterminator">
+  <a href="https://github.com/DamianPyCoder/Game___Pygame___x2">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/3raya_circle.png">
   </a>
-  <a href="https://github.com/DamianPyCoder/Game___Unity___SpaceExterminator">
+  <a href="https://github.com/DamianPyCoder/Game___PythonTurtle___x2">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/tenis_circle.png">
   </a>
-
-
-  <a href="https://github.com/DamianPyCoder/Game___Java___PixelFish">
+  <a href="https://github.com/DamianPyCoder/Java__Games__x2">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/pixelfish_circle.png">
   </a>
-  <a href="https://github.com/DamianPyCoder/Game___Java___CuteKrabby">
+  <a href="https://github.com/DamianPyCoder/Java__Games__x2">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/krabby_circle.png">
   </a>
-
- 
 </p>
 
 
