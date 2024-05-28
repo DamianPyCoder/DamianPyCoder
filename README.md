@@ -112,7 +112,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 
-## Mobile applications  :iphone:
+## :iphone: Mobile applications
 
 <details>
 <summary><b> Click to view smartphone apps made with IONIC </b></summary>  
@@ -131,7 +131,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 </details>
 
 
-## Games I made in my free time  :video_game:  
+## :video_game:   Games I made in my free time 
 
 <p align="center">
    <a href="https://github.com/DamianPyCoder/Game___UnrealEngine___SuperRaces">
@@ -203,7 +203,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 
-##  3D :black_square_button:
+## :black_square_button:  3D 
 
 <p align="center">
    <a href="https://github.com/DamianPyCoder/Game___UnrealEngine___SuperRaces">
