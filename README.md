@@ -124,11 +124,11 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 <details>
-<summary><b> Click to view the multiplatform apps with Ionic, Flutter and ReactNative </b></summary>  
+<summary><b> Click to view website aplications made with ASPNet </b></summary>  
 </details>
 
 <details>
-<summary><b> Click to view the Kotlin and Java apps </b></summary>  
+<summary><b> Click to view smartphone apps made with IONIC, FLUTTER, REACTNATIVE, JAVA and KOTLIN </b></summary>  
 </details>
 
 
@@ -143,7 +143,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 <details>
-<summary><b> Click to view more games </b></summary>    
+<summary><b> Click to view games made with Unity, Pygame, Godot and more. </b></summary>    
 <p align="center">
   <a href="https://github.com/DamianPyCoder/Game___Unity___RPGNinja">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/rpgNinjas_circle.png">
@@ -201,6 +201,10 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
   </a>
 </p>
 
+</details>
+
+<details>
+<summary><b> 3D </b></summary>    
 </details>
 
 
