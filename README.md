@@ -76,7 +76,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 <details>
-<summary><b> Click to view the projects </b></summary>  
+<summary><b> Click to view the projects in React and Angular </b></summary>  
 
 <p align="center">
   <a href="">
@@ -96,6 +96,19 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
   </a>
 </p>
 
+</details>
+
+
+<details>
+<summary><b> Click to view the projects in ASPNet </b></summary>  
+</details>
+
+<details>
+<summary><b> Click to view the multiplatform apps with Ionic, Flutter and ReactNative </b></summary>  
+</details>
+
+<details>
+<summary><b> Click to view the Kotlin and Java apps </b></summary>  
 </details>
 
 
