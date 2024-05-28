@@ -101,24 +101,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 <details>
 <summary><b> Click to view more projects </b></summary>  
-  <a href="">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/app_sport.png">
-  </a>  
-  <a href="">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/redsocialcorporativa.png">
-  </a> 
-  <a href="">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/delivery_flutter.png" title="deliveryflutter" alt="deliveryflutter">
-  </a>
-  <a href="">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/crmbanner.png">
-  </a> 
-  <a href="">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/slackclon.png" title="deliveryflutter" alt="deliveryflutter">
-  </a>
-  </p>
 </details>
-
 
 
 
@@ -127,10 +110,25 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 <summary><b> Click to view website aplications made with ASPNet </b></summary>  
 </details>
 
+
+
+## Mobile applications  :iphone:
+
 <details>
-<summary><b> Click to view smartphone apps made with IONIC, FLUTTER, REACTNATIVE, JAVA and KOTLIN </b></summary>  
+<summary><b> Click to view smartphone apps made with IONIC </b></summary>  
 </details>
 
+<details>
+<summary><b> Click to view smartphone apps made with FLUTTER </b></summary>  
+</details>
+
+<details>
+<summary><b> Click to view smartphone apps made with REACT NATIVE </b></summary>  
+</details>
+
+<details>
+<summary><b> Click to view smartphone apps made with JAVA and KOTLIN </b></summary>  
+</details>
 
 
 ## Games I made in my free time  :video_game:  
