@@ -271,9 +271,11 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 
+# OTHERS SKILLS
 
 <details>
 <summary><b>1.2 Familiar in Data Science with </b></summary>     
+ 
 | Numpy | Pandas | Matplotlib | TensorFlow | Seaborn | Anaconda | Pytorch | Plotly | Jupyter |
 |-----|-----|-----|---|--|-----|--|--|--|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="55" height="55"/> |  | <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="anaconda" alt="anaconda" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="plotly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="jupyter" alt="jupyter" width="55" height="55"/> |
@@ -281,6 +283,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 <details>
 <summary><b>1.3 Familiar in Database and Big Data with </b></summary>    
+ 
 | PostgreSQL | Mongo | Firebase | Hadoop | Spark |  
 |-----|--|--|--|--|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="firebase"  alt="firebase" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="hadoop"  alt="hadoop" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="apachespark"  alt="apachespark" width="55" height="55"/> |  
@@ -288,6 +291,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 <details>
 <summary><b>1.4 Occasionally use </b></summary>  
+ 
 | Django | Flask | Spring | Docker | GraphQL | Express | CoffeeE | Typescript | Azure | Bash | Postman | Swagger | RabbitMQ |
 |--|---|---|--|-----|--|-----|--|---|--|--|--|--|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django"  alt="Django" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask"  alt="Flask" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring"  alt="Spring" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL"  alt="GraphQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express"  alt="express" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/coffeescript/coffeescript-original.svg" title="coffeescript"  alt="coffeescript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript"  alt="typescript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure"  alt="azure" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash"  alt="bash" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman"  alt="postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="swagger"  alt="swagger" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="rabbitmq"  alt="rabbitmq" width="55" height="55"/> |
@@ -295,6 +299,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 <details>
 <summary><b>2.2 Familiar with </b></summary>  
+ 
 | Angular | Bootstrap |
 |------------|-------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular"  alt="Angular" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/> |
@@ -302,6 +307,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 <details>
 <summary><b>2.3 Occasionally use </b></summary>  
+ 
 | NextJS | JQuery | Sass | Less | ElectronJS |
 |-----|--|---|---|---|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="JQuery"  alt="JQuery" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" title="less" alt="less" width="55" height="55"/>  |   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="electron" alt="electron" width="55" height="55"/> |
@@ -312,10 +318,8 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 | ThreeJS  | Canva | Gimp | Turtle | Pygame |  Godot |
 |--|--|--|---|---|--|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="ThreeJS" alt="ThreeJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="ThreeJS" alt="ThreeJS" width="55" height="55"/>      | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="godot" alt="godot" width="55" height="55"/>|
- 
+| <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="ThreeJS" alt="ThreeJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="ThreeJS" alt="ThreeJS" width="55" height="55"/>      | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="godot" alt="godot" width="55" height="55"/>| 
 </details>
-
 
 <details>
 <summary><b>5.2 Familiar with DevOps </b></summary>  
@@ -323,7 +327,6 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 | Trello | Jira | Docker | Kubernetes | Jenkins |
 |---|---|-----|-----|---|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="trello" alt="trello" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="kubernetes" alt="kubernetes" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins" alt="jenkins" width="55" height="55"/> | 
-
 </details>
 
 <details>
@@ -332,7 +335,6 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 | Json | XML | Docker | 
 |-----|-----|---|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="trello" alt="trello" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="jira" alt="jira" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="docker" alt="docker" width="55" height="55"/> |
-
 </details>
 
 
