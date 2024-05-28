@@ -95,6 +95,8 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 <details>
 <summary><b> REACT </b></summary>  
 
+</details>
+
 
 
 
