@@ -62,18 +62,22 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
   <a href="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/digitalMenu.png">
   </a> 
+  <a href="https://www.youtube.com/@DamianDevops">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/damiandevops_banner.png" title="damiandevopscanvas" alt="damiandevopscanvas">
+  </a>
   <a href="https://github.com/DamianPyCoder/Program___Angular__QuizzProgram__likeKahoot">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/quizzAngular.png">
   </a>
+  <a href="https://github.com/DamianPyCoder/App___Kotlin__TinderClon__with_MVP">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/tinderclon.png">
+  </a>
 </p>
+
 
 
 ## Projects under construction :octocat:
 
 <p align="center">
-   <a href="https://www.youtube.com/@DamianDevops">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/damiandevops_banner.png" title="damiandevopscanvas" alt="damiandevopscanvas">
-  </a>
   <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/app_sport.png">
   </a>  
