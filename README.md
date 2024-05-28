@@ -92,26 +92,23 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 
-<details>
-<summary><b> REACT </b></summary>  
 
-</details>
 
 
 
 
 ## :computer: Web applications and desktop applications
 
-
 <details>
-<summary><b> Click to view more projects </b></summary>  
+<summary><b> REACT </b></summary>  
 </details>
 
-
-
+<details>
+<summary><b> ANGULAR </b></summary>  
+</details>
 
 <details>
-<summary><b> Click to view website aplications made with ASPNet </b></summary>  
+<summary><b> ASPNet </b></summary>  
 </details>
 
 
@@ -119,19 +116,19 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 ## :iphone: Mobile applications
 
 <details>
-<summary><b> Click to view smartphone apps made with IONIC </b></summary>  
+<summary><b> IONIC </b></summary>  
 </details>
 
 <details>
-<summary><b> Click to view smartphone apps made with FLUTTER </b></summary>  
+<summary><b> FLUTTER </b></summary>  
 </details>
 
 <details>
-<summary><b> Click to view smartphone apps made with REACT NATIVE </b></summary>  
+<summary><b> REACT NATIVE </b></summary>  
 </details>
 
 <details>
-<summary><b> Click to view smartphone apps made with JAVA and KOTLIN </b></summary>  
+<summary><b> JAVA and KOTLIN </b></summary>  
 </details>
 
 
@@ -145,7 +142,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 <details>
-<summary><b> Click to view games made with Unity, Pygame, Godot and more. </b></summary>    
+<summary><b> Unity, Pygame, Godot and more. </b></summary>    
 <p align="center">
   <a href="https://github.com/DamianPyCoder/Game___Unity___RPGNinja">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/rpgNinjas_circle.png">
