@@ -150,7 +150,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 </details>
 
 
-## :video_game:   Games I made in my free time 
+## :video_game:   Games and 3D Designs 
 
 
 <details>
@@ -220,18 +220,12 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/krabby_circle.png">
   </a>
 </p>
-
 </details>
 
 
 
-## :black_square_button:  3D 
-
-
-
-
 <details>
-<summary><b>  </b></summary>    
+<summary><b>  3D Designs </b></summary>    
 </details>
 
 
