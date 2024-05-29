@@ -94,8 +94,6 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
   <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/CRMERP.png" title="canvasHonida" alt="canvasHonida">
   </a>
-
- 
   <a href="https://github.com/DamianPyCoder/Program___Angular__QuizzProgram__likeKahoot">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/quizzAngular.png">
   </a>
@@ -111,16 +109,20 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 </p>
 </details>
 
+<details>
+<summary><b> Pure HTML5 & CSS3 </b></summary>  
+<p align="center">
+
+</p>
+</details>
+
 
 
 ## :iphone: Mobile applications
 
-<details>
-<summary><b> IONIC </b></summary>  
-</details>
 
 <details>
-<summary><b> FLUTTER </b></summary>  
+<summary><b> FLUTTER & IONIC </b></summary>  
 <p align="center">
   <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/delivery_flutter.png" title="deliveryflutter" alt="deliveryflutter">
@@ -150,15 +152,20 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 ## :video_game:   Games I made in my free time 
 
-<p align="center">
-   <a href="https://github.com/DamianPyCoder/Game___UnrealEngine___SuperRaces">
-    <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/cocheUnreal_circle.png">
-  </a>
-</p>
+
+<details>
+<summary><b> UNREAL ENGINE </b></summary>    
+  <p align="center">
+     <a href="https://github.com/DamianPyCoder/Game___UnrealEngine___SuperRaces">
+      <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/cocheUnreal_circle.png">
+    </a>
+  </p>
+</details>
+
 
 
 <details>
-<summary><b> UNITY, GODOT, PYGAME and more. </b></summary>    
+<summary><b> UNITY </b></summary>    
 <p align="center">
   <a href="https://github.com/DamianPyCoder/Game___Unity___RPGNinja">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/rpgNinjas_circle.png">
@@ -178,6 +185,11 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
     <a href="https://github.com/DamianPyCoder/Game___Unity___KillTheTrasgos">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/orcos_circle.png">
   </a>
+</details>
+
+
+<details>
+<summary><b> GODOT, PYGAME and more. </b></summary>    
    <a href="https://github.com/DamianPyCoder/Game___Ionic___2048">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/2048_circle.png">
   </a>
