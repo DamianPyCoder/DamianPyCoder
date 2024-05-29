@@ -117,15 +117,6 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 <details>
 <summary><b> Pure HTML-CSS & others </b></summary>  
 <p align="center">
-
-
-  <a href="">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/nemorphism.png" title="deliveryflutter" alt="deliveryflutter">
-  </a>
-  <a href="">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/calculatorglass.png" title="deliveryflutter" alt="deliveryflutter">
-  </a>
-
   <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/BLOGDJANGO.png" title="deliveryflutter" alt="deliveryflutter">
   </a>
@@ -321,6 +312,17 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 <summary><b>  3D Designs </b></summary>    
 </details>
 
+<details>
+<summary><b> Nemorphism, glassmorphism and others </b></summary>    
+   <p align="center">
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/nemorphism.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/calculatorglass.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+   </p>
+</details>
 
 
 <p align="center">
