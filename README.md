@@ -243,7 +243,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 
-# SKILLS
+# SKILLED IN
 ## 1. Backend and Database
 <!-- #### 1.1 Skilled in -->
 | Python | Java | NodeJS | C# | ASP.NET | MySQL | Oracle | SQLite | 
