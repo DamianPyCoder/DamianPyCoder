@@ -110,7 +110,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 </details>
 
 <details>
-<summary><b> Pure HTML5 & CSS3 </b></summary>  
+<summary><b> Pure HTML-CSS & SCRIPTS </b></summary>  
 <p align="center">
 
 </p>
