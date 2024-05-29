@@ -72,18 +72,12 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
   <a href="https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/baner_music.png" title="canvasHonida" alt="canvasHonida">
   </a>
-  <a href="https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/baner_music.png" title="canvasHonida" alt="canvasHonida">
-  </a>
   <a href="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/codingschool.png" title="codingschool" alt="codingschool">
   </a>
   <a href="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/digitalMenu.png">
   </a> 
-  <a href="">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/socialNetMEAN.png" title="canvasHonida" alt="canvasHonida">
-  </a>
   <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/eccomerce.png" title="canvasHonida" alt="canvasHonida">
   </a>
@@ -219,7 +213,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 <details>
-<summary><b> JAVA and KOTLIN </b></summary>  
+<summary><b> JAVA & KOTLIN </b></summary>  
 <p align="center">
   <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/app_sport.png">
