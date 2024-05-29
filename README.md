@@ -119,7 +119,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/TRAVELAGENCY.png" title="deliveryflutter" alt="deliveryflutter">
   </a>
   <a href="">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/SECONDHAND.PNG" title="deliveryflutter" alt="deliveryflutter">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/SECONDHAND.png" title="deliveryflutter" alt="deliveryflutter">
   </a>
   <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/SURFSCH.png" title="deliveryflutter" alt="deliveryflutter">
