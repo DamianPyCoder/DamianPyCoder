@@ -138,9 +138,40 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 <details>
 <summary><b> FLUTTER & IONIC </b></summary>  
 <p align="center">
+   <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/TODOLISTIONIC.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/CHATIONIC.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
   <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/delivery_flutter.png" title="deliveryflutter" alt="deliveryflutter">
   </a>
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/SHOPPING.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/FLASHLIGHT.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/POKEDEX.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/MANAGER.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/BURGUERQUEEN.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/COUPONS.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/COUNTER.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/EVENTS.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+ 
 </p>
 </details>
 
