@@ -156,13 +156,9 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 <details>
 <summary><b> Unreal, Unity and more </b></summary>    
   <p align="center">
-     <a href="https://github.com/DamianPyCoder/Game___UnrealEngine___SuperRaces">
-      <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/cocheUnreal_circle.png">
-    </a>
-  </p>
-
-
-<p align="center">
+   <a href="https://github.com/DamianPyCoder/Game___UnrealEngine___SuperRaces">
+    <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/cocheUnreal_circle.png">
+  </a>
   <a href="https://github.com/DamianPyCoder/Game___Unity___RPGNinja">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/rpgNinjas_circle.png">
   </a>
