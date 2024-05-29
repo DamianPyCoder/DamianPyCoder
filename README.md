@@ -112,7 +112,21 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 <details>
 <summary><b> Pure HTML-CSS & SCRIPTS </b></summary>  
 <p align="center">
-
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/ARCHITECT.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/TRAVELAGENCY.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/SECONDHAND.PNG" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/SURFSCH.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/TRAVELAGENCY.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
 </p>
 </details>
 
