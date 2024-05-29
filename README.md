@@ -97,6 +97,9 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
   <a href="https://github.com/DamianPyCoder/Program___Angular__QuizzProgram__likeKahoot">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/quizzAngular.png">
   </a>
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/CLINICMANAGEMENT.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
 </p>
 </details>
 
@@ -106,12 +109,21 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
   <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/slackclon.png" title="deliveryflutter" alt="deliveryflutter">
   </a>
+   <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/mvccrud.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/expensemanagement.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
 </p>
 </details>
 
 <details>
 <summary><b> Pure HTML-CSS & SCRIPTS </b></summary>  
 <p align="center">
+   <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/BLOGDJANGO.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
   <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/ARCHITECT.png" title="deliveryflutter" alt="deliveryflutter">
   </a>
@@ -138,14 +150,14 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 <details>
 <summary><b> FLUTTER & IONIC </b></summary>  
 <p align="center">
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/CHATIONIC.png" title="deliveryflutter" alt="deliveryflutter">
+  </a> 
    <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/TODOLISTIONIC.png" title="deliveryflutter" alt="deliveryflutter">
   </a>
   <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/CHATIONIC.png" title="deliveryflutter" alt="deliveryflutter">
-  </a>
-  <a href="">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/delivery_flutter.png" title="deliveryflutter" alt="deliveryflutter">
   </a>
   <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/SHOPPING.png" title="deliveryflutter" alt="deliveryflutter">
@@ -171,39 +183,27 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
   <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/EVENTS.png" title="deliveryflutter" alt="deliveryflutter">
   </a>
+   <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/delivery_flutter.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+   <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/16PROJECTS.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/13PROJECTS.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
  
 </p>
 </details>
 
 <details>
 <summary><b> REACT NATIVE </b></summary>  
-  <a href="">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/BLOGDJANGO.png" title="deliveryflutter" alt="deliveryflutter">
-  </a>
-  <a href="">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/16PROJECTS.png" title="deliveryflutter" alt="deliveryflutter">
-  </a>
-  <a href="">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/13PROJECTS.png" title="deliveryflutter" alt="deliveryflutter">
-  </a>
-  <a href="">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/TEXTRECOGNITION.png" title="deliveryflutter" alt="deliveryflutter">
-  </a>
-  <a href="">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/CORPORATESOCIALNETWORK.png" title="deliveryflutter" alt="deliveryflutter">
-  </a>
-  <a href="">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/mvccrud.png" title="deliveryflutter" alt="deliveryflutter">
-  </a>
-  <a href="">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/expensemanagement.png" title="deliveryflutter" alt="deliveryflutter">
-  </a>
-  <a href="">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/CLINICMANAGEMENT.png" title="deliveryflutter" alt="deliveryflutter">
-  </a>
-   <a href="">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/CHATIONIC.png" title="deliveryflutter" alt="deliveryflutter">
-  </a> 
+
+ 
+
+
+
+
 </details>
 
 
@@ -220,6 +220,12 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
   </a> 
   <a href="https://github.com/DamianPyCoder/App___Kotlin__TinderClon__with_MVP">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/tinderclon.png">
+  </a>
+   <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/TEXTRECOGNITION.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/CORPORATESOCIALNETWORK.png" title="deliveryflutter" alt="deliveryflutter">
   </a>
 </p>
 </details>
