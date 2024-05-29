@@ -227,9 +227,6 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
    <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/TEXTRECOGNITION.png" title="deliveryflutter" alt="deliveryflutter">
   </a>
-  <a href="">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/CORPORATESOCIALNETWORK.png" title="deliveryflutter" alt="deliveryflutter">
-  </a>
 </p>
 </details>
 
@@ -242,6 +239,9 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
   <p align="center">
    <a href="https://github.com/DamianPyCoder/Game___UnrealEngine___SuperRaces">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/cocheUnreal_circle.png">
+  </a>
+   <a href="https://github.com/DamianPyCoder/Game___UnrealEngine___SuperRaces">
+    <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/shooterUnity.png">
   </a>
   <a href="https://github.com/DamianPyCoder/Game___Unity___RPGNinja">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/rpgNinjas_circle.png">
