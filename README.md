@@ -53,21 +53,14 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 # MY FAVORITE PROJECTS :octocat:
 
-<!--
 <p align="center">
   <a href="https://www.youtube.com/@DamianDevops">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/damiandevops_banner.png" title="damiandevopscanvas" alt="damiandevopscanvas">
   </a>
 </p>
--->
 
 
-
-
-
-
-
-
+# PROJECTS BY TECHNOLOGY
 ## :computer: Web applications and desktop applications
 
 <details>
