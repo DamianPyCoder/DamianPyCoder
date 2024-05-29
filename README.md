@@ -177,7 +177,37 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 <details>
 <summary><b> REACT NATIVE </b></summary>  
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/BLOGDJANGO.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/16PROJECTS.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/13PROJECTS.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/TEXTRECOGNITION.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/CORPORATESOCIALNETWORK.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/mvccrud.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/expensemanagement.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+  <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/CLINICMANAGEMENT.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+   <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/CHATIONIC.png" title="deliveryflutter" alt="deliveryflutter">
+  </a> 
 </details>
+
+
+
 
 <details>
 <summary><b> JAVA and KOTLIN </b></summary>  
