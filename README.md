@@ -64,7 +64,15 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 ## :computer: Web applications and desktop applications
 
 <details>
-<summary><b> REACT & ANGULAR </b></summary>  
+<summary><b> REACT </b></summary>  
+<p align="center">
+
+
+</p>
+</details>
+
+<details>
+<summary><b> ANGULAR </b></summary>  
 <p align="center">
    <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/crmbanner.png">
