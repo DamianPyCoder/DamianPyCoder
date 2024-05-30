@@ -66,14 +66,6 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 <details>
 <summary><b> REACT </b></summary>  
 <p align="center">
-
-
-</p>
-</details>
-
-<details>
-<summary><b> ANGULAR </b></summary>  
-<p align="center">
    <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/crmbanner.png">
   </a>  
@@ -86,6 +78,12 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
   <a href="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/digitalMenu.png">
   </a> 
+</p>
+</details>
+
+<details>
+<summary><b> ANGULAR </b></summary>  
+<p align="center">
   <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/eccomerce.png" title="canvasHonida" alt="canvasHonida">
   </a>
