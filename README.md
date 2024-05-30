@@ -138,7 +138,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 <details>
-<summary><b> FLUTTER & IONIC </b></summary>  
+<summary><b> FLUTTER </b></summary>  
 <p align="center">
   <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/CHATIONIC.png" title="deliveryflutter" alt="deliveryflutter">
@@ -173,6 +173,14 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
   <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/EVENTS.png" title="deliveryflutter" alt="deliveryflutter">
   </a>
+</p>
+</details>
+
+
+
+<details>
+<summary><b> IONIC </b></summary>  
+<p align="center"> 
    <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/delivery_flutter.png" title="deliveryflutter" alt="deliveryflutter">
   </a>
@@ -181,8 +189,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
   </a>
   <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/13PROJECTS.png" title="deliveryflutter" alt="deliveryflutter">
-  </a>
- 
+  </a> 
 </p>
 </details>
 
