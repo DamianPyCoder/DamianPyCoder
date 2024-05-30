@@ -94,7 +94,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 </details>
 
 <details>
-<summary><b> ASPNet </b></summary>  
+<summary><b> ASPNet Core </b></summary>  
 <p align="center">
   <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/slackclon.png" title="deliveryflutter" alt="deliveryflutter">
