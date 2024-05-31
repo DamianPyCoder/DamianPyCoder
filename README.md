@@ -101,6 +101,9 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
   <a href="https://github.com/DamianPyCoder/Program___React___ControlGastos_y_otrasAplicaciones">
     <img width="400" height="125" src="">
   </a> 
+  <a href="https://github.com/DamianPyCoder/Program___React___ControlGastos_y_otrasAplicaciones">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/reactControlGastos.png" title="codingschool" alt="codingschool">
+  </a> 
 </p>
 </details>
 
