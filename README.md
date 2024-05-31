@@ -104,7 +104,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
   </a> 
 
   <a href="https://github.com/DamianPyCoder/Program___React___CRM">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/crmReact.png">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/crmReact.png">
   </a> 
 
  
