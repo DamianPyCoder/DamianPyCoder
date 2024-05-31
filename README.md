@@ -60,7 +60,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 </p>
 
 
-# PROJECTS BY TECHNOLOGY
+# PROJECTS BY TECHNOLOGY (Sorted by the newest)
 ## :computer: Web applications and desktop applications
 
 <details>
