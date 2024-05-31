@@ -98,6 +98,14 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
   <a href="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/digitalMenu.png">
   </a> 
+
+
+
+  <a href="https://github.com/DamianPyCoder/Program___React___CRM">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/crmReact" title="codingschool" alt="codingschool">
+  </a> 
+
+ 
   <a href="https://github.com/DamianPyCoder/Program___React___ControlGastos_y_otrasAplicaciones">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/reactControlGastos.png" title="codingschool" alt="codingschool">
   </a> 
