@@ -54,9 +54,6 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 # MY FAVORITE PROJECTS :octocat:
 
 <p align="center">
-  <a href="https://www.youtube.com/@DamianDevops">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/damiandevops_banner.png" title="damiandevopscanvas" alt="damiandevopscanvas">
-  </a>
   <a href="https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/baner_music.png" title="canvasHonida" alt="canvasHonida">
   </a>
@@ -70,10 +67,13 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/CRMERP.png" title="canvasHonida" alt="canvasHonida">
   </a>
   <a href="">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/CHATIONIC.png" title="deliveryflutter" alt="deliveryflutter">
-  </a> 
-  <a href="https://github.com/DamianPyCoder/App___Kotlin__TinderClon__with_MVP">
-    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/tinderclon.png">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/app_sport.png">
+  </a>  
+   <a href="">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/delivery_flutter.png" title="deliveryflutter" alt="deliveryflutter">
+  </a>
+  <a href="https://www.youtube.com/@DamianDevops">
+    <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/damiandevops_banner.png" title="damiandevopscanvas" alt="damiandevopscanvas">
   </a>
 </p>
 
@@ -165,7 +165,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 <details>
-<summary><b> FLUTTER </b></summary>  
+<summary><b> IONIC </b></summary>  
 <p align="center">
   <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/CHATIONIC.png" title="deliveryflutter" alt="deliveryflutter">
@@ -206,7 +206,7 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
 
 
 <details>
-<summary><b> IONIC </b></summary>  
+<summary><b> FLUTTER </b></summary>  
 <p align="center"> 
    <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/delivery_flutter.png" title="deliveryflutter" alt="deliveryflutter">
