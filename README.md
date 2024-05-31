@@ -72,11 +72,13 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
    <a href="">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/delivery_flutter.png" title="deliveryflutter" alt="deliveryflutter">
   </a>
+</p>
+
+<!--
   <a href="https://www.youtube.com/@DamianDevops">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/damiandevops_banner.png" title="damiandevopscanvas" alt="damiandevopscanvas">
   </a>
-</p>
-
+-->
 
 # PROJECTS BY TECHNOLOGY (Sorted by the newest)
 ## :computer: Web applications and desktop applications
