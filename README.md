@@ -313,6 +313,9 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
    <a href="https://github.com/DamianPyCoder/Game___UnrealEngine___SuperRaces">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/shooterUnity.png">
   </a>
+  <a href="https://github.com/DamianPyCoder/Game___Unity___SuperChess">
+    <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/chess001.png">
+  </a>   
   <a href="https://github.com/DamianPyCoder/Game___Unity___RPGNinja">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/rpgNinjas_circle.png">
   </a>
@@ -322,9 +325,6 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
    <a href="https://github.com/DamianPyCoder/Game___Unity___SpaceExterminator">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/extermin_circleB.png">
   </a>
-  <a href="https://github.com/DamianPyCoder/Game___Unity___SuperChess">
-    <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/extermin_circleB.png">
-  </a>   
   <a href="https://github.com/DamianPyCoder/Game___Unity___Tetris3D">
     <img width="150" height="150" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvasGames/tetris3D_circle.png">
   </a>
