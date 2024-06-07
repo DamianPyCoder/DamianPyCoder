@@ -60,16 +60,16 @@ I live in Barcelona, although I'm open to traveling anywhere in the world!!
   <a href="https://github.com/DamianPyCoder/Program___MERN___CodeAcademy">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/codingschool.png" title="codingschool" alt="codingschool">
   </a>
-  <a href="">
+  <a href="https://github.com/DamianPyCoder/Program___MEAN___Ecommerce">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/eccomerce.png" title="canvasHonida" alt="canvasHonida">
   </a>
-  <a href="">
+  <a href="https://github.com/DamianPyCoder/Program___MEAN___CRM-ERP">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/CRMERP.png" title="canvasHonida" alt="canvasHonida">
   </a>
-  <a href="">
+  <a href="https://github.com/DamianPyCoder/App___Kotlin___SportControl_V2">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/app_sport.png">
   </a>  
-   <a href="">
+   <a href="https://github.com/DamianPyCoder/App___Flutter__Delivery">
     <img width="400" height="125" src="https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/delivery_flutter.png" title="deliveryflutter" alt="deliveryflutter">
   </a>
 </p>
